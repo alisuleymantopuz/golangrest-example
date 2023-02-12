@@ -1,4 +1,4 @@
-# golangrest-example
+# Rest API example with Go Lang
 Rest example with Go Lang
 
 - Rest API
